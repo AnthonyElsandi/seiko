@@ -1,4 +1,4 @@
 # seiko
 seiko project
 
-CRUD with PHP
+CRUD with PHP MVC
